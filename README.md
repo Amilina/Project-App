@@ -1,12 +1,7 @@
-# German Language Learning App
+<h1>German Language Learning App<h1>
 This is a german language learning app. This project was developed in the context of the class "Python Programming for Non-Programmers". It is built as a combination of scripts written in Python 3.9. It runs entirely in your shell.
 
-# Functions
-Mode 1: Dictionary
-Mode 2: Vocabulary Trainer
-Mode 3: Grammar
-Stats: Display some analytics regarding Mode 2
-
+<h2>Functions<h2>
 <ul>
   <li>Mode 1: Dictionary</li>
   <li>Mode 2: Vocabulary Trainer</li>
@@ -14,7 +9,7 @@ Stats: Display some analytics regarding Mode 2
   <li>Stats: Display some analytics regarding Mode 2</li>
 </ul>
 
-# Use
+<h2>Use<h2>
 To use the german language learning app, clone the repo, enter the main directory, and run the following command in your shell:
 
 pip install -r requirements.txt
