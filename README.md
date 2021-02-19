@@ -2,3 +2,18 @@
 This is a german language learning app. This project was developed in the context of the class "Python Programming for Non-Programmers". It is built as a combination of scripts written in Python 3.9. It runs entirely in your shell.
 
 # Functions
+Mode 1: Dictionary
+Mode 2: Vocabulary Trainer
+Mode 3: Grammar
+Stats: Display some analytics regarding Mode 2
+
+# Use
+To use the german language learning app, clone the repo, enter the main directory, and run the following command in your shell:
+
+pip install -r requirements.txt
+
+The following external libraries will be installed: click, colorama.
+
+After the installation, simply run the following command in your shell:
+
+python3 projectcli.py
