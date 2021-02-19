@@ -7,6 +7,13 @@ Mode 2: Vocabulary Trainer
 Mode 3: Grammar
 Stats: Display some analytics regarding Mode 2
 
+<ul>
+  <li>Mode 1: Dictionary</li>
+  <li>Mode 2: Vocabulary Trainer</li>
+  <li>Mode 3: Grammar</li>
+  <li>Stats: Display some analytics regarding Mode 2</li>
+</ul>
+
 # Use
 To use the german language learning app, clone the repo, enter the main directory, and run the following command in your shell:
 
