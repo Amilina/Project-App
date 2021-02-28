@@ -4,9 +4,9 @@ This is a german language learning app. This project was developed in the contex
 # Functions
 <ul>
   <li>Mode 1: Dictionary</li>
-  <li>Mode 2: Vocabulary Trainer</li>
+  <li>Mode 2: Vocabulary Trainer. With options to test, see and reset some statistics</li>
   <li>Mode 3: Grammar</li>
-  <li>Stats: Display some analytics regarding Mode 2</li>
+  <li>Mode 4: Mad Libs game</li>
 </ul>
 
 # Use
@@ -14,7 +14,7 @@ To use the german language learning app, clone the repo, enter the main director
 
 pip install -r requirements.txt
 
-The following external libraries will be installed: click, colorama.
+The following external libraries will be installed: click, colorama, pandas and emoji.
 
 After the installation, simply run the following command in your shell:
 
